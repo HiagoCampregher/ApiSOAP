@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/hiago/Downloads/jar_files (1) (1)/FastInfoset-1.2.18.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hiago/Downloads/jar_files (1) (1)/gmbal-api-only-4.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hiago/Downloads/jar_files (1) (1)/ha-api-3.1.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hiago/Downloads/jar_files (1) (1)/jakarta.activation-1.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hiago/Downloads/jar_files (1) (1)/jakarta.annotation-api-1.3.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hiago/Downloads/jar_files (1) (1)/jakarta.jws-api-2.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hiago/Downloads/jar_files (1) (1)/jakarta.mail-1.6.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hiago/Downloads/jar_files (1) (1)/jakarta.xml.bind-api-2.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hiago/Downloads/jar_files (1) (1)/jakarta.xml.soap-api-1.4.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hiago/Downloads/jar_files (1) (1)/jakarta.xml.ws-api-2.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hiago/Downloads/jar_files (1) (1)/jaxb-impl-2.3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hiago/Downloads/jar_files (1) (1)/jaxws-rt-2.3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hiago/Downloads/jar_files (1) (1)/management-api-3.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hiago/Downloads/jar_files (1) (1)/mimepull-1.9.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hiago/Downloads/jar_files (1) (1)/policy-2.7.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hiago/Downloads/jar_files (1) (1)/saaj-impl-1.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hiago/Downloads/jar_files (1) (1)/stax2-api-4.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hiago/Downloads/jar_files (1) (1)/stax-ex-1.8.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hiago/Downloads/jar_files (1) (1)/streambuffer-1.5.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hiago/Downloads/jar_files (1) (1)/woodstox-core-6.2.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
